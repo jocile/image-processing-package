@@ -1,4 +1,4 @@
-# image_processing
+# image_processing_JOCILE
 
 - Test the knowledge acquired with a practical exercise on creating Python packages.
 - Combine RGB histograms from two images.
@@ -22,7 +22,7 @@ The pakage image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image_processing
+pip install image_processing_JOCILE
 ```
 
 ## Usage

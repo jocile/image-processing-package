@@ -25,7 +25,7 @@ def sanitize_requirements(requirements_file):
 VERSION = "0.0.1"
 
 setup(
-    name="image-processing",
+    name="image_processing_JOCILE",
     version=VERSION,
     author="Jocile",
     author_email="jocilecam@gmail.com",
@@ -39,7 +39,6 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Intended Audience :: Developers",  # Adicionado classifier
-        "Topic :: Image Processing",  # Adicionado classifier
     ],
     install_requires=sanitize_requirements("requirements.txt"),
     python_requires=">=3.5",
