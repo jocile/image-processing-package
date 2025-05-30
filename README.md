@@ -6,6 +6,7 @@
 Description:
 
 The pakage image_processing is used to:
+  Processing:
     - Histogram matching
     - Structural similarity
     - Resize image
@@ -33,7 +34,7 @@ file1_name.my_function()
 
 ## Author
 
-[Jocilé](https://jocile.com/jocile/)
+[tiemi (Karina Kato) · GitHub](https://github.com/tiemi) | [linkedin.com/in/karina-kato-4b2a56182/](https://www.linkedin.com/in/karina-kato-4b2a56182/)
 
 ## License
 
